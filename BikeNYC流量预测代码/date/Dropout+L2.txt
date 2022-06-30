@@ -1,0 +1,343 @@
+batch 100, train_loss 0.010496,Time used 0.078560s
+***************************test_batch 100, test_rmse_loss 63.462011,test_mae_loss 27.829475,test_mape_loss 225.002796,Time used 0.298172s
+batch 200, train_loss 0.010496,Time used 0.078559s
+***************************test_batch 200, test_rmse_loss 60.329404,test_mae_loss 25.642143,test_mape_loss 226.338462,Time used 0.255367s
+batch 300, train_loss 0.010496,Time used 0.078142s
+***************************test_batch 300, test_rmse_loss 57.385392,test_mae_loss 23.870143,test_mape_loss 235.519606,Time used 0.266907s
+batch 400, train_loss 0.010496,Time used 0.078530s
+***************************test_batch 400, test_rmse_loss 54.587521,test_mae_loss 22.206261,test_mape_loss 232.550797,Time used 0.235245s
+batch 500, train_loss 0.010496,Time used 0.094157s
+***************************test_batch 500, test_rmse_loss 52.021899,test_mae_loss 20.859713,test_mape_loss 234.383423,Time used 0.282120s
+batch 600, train_loss 0.010496,Time used 0.097286s
+***************************test_batch 600, test_rmse_loss 49.621873,test_mae_loss 19.698130,test_mape_loss 237.491677,Time used 0.262879s
+batch 700, train_loss 0.010496,Time used 0.094177s
+***************************test_batch 700, test_rmse_loss 47.452086,test_mae_loss 18.640540,test_mape_loss 231.610479,Time used 0.266872s
+batch 800, train_loss 0.010496,Time used 0.094173s
+***************************test_batch 800, test_rmse_loss 45.354099,test_mae_loss 17.807369,test_mape_loss 238.962478,Time used 0.235216s
+batch 900, train_loss 0.010496,Time used 0.094165s
+***************************test_batch 900, test_rmse_loss 43.490072,test_mae_loss 16.900850,test_mape_loss 226.085336,Time used 0.251860s
+batch 1000, train_loss 0.010496,Time used 0.094177s
+***************************test_batch 1000, test_rmse_loss 41.804360,test_mae_loss 16.370479,test_mape_loss 234.708116,Time used 0.282026s
+batch 1100, train_loss 0.010496,Time used 0.094183s
+***************************test_batch 1100, test_rmse_loss 40.275375,test_mae_loss 15.793158,test_mape_loss 231.384661,Time used 0.252872s
+batch 1200, train_loss 0.010496,Time used 0.095327s
+***************************test_batch 1200, test_rmse_loss 39.134502,test_mae_loss 15.408233,test_mape_loss 227.742423,Time used 0.282518s
+batch 1300, train_loss 0.010496,Time used 0.096790s
+***************************test_batch 1300, test_rmse_loss 37.962315,test_mae_loss 15.002783,test_mape_loss 224.287858,Time used 0.300626s
+batch 1400, train_loss 0.010496,Time used 0.079143s
+***************************test_batch 1400, test_rmse_loss 36.911158,test_mae_loss 14.734269,test_mape_loss 227.192659,Time used 0.250249s
+batch 1500, train_loss 0.010496,Time used 0.104000s
+***************************test_batch 1500, test_rmse_loss 36.115005,test_mae_loss 14.454158,test_mape_loss 219.735564,Time used 0.284000s
+batch 1600, train_loss 0.010496,Time used 0.094181s
+***************************test_batch 1600, test_rmse_loss 35.465444,test_mae_loss 14.331861,test_mape_loss 222.577191,Time used 0.266897s
+batch 1700, train_loss 0.010496,Time used 0.082001s
+***************************test_batch 1700, test_rmse_loss 34.629204,test_mae_loss 14.080509,test_mape_loss 222.136381,Time used 0.255994s
+batch 1800, train_loss 0.010496,Time used 0.085999s
+***************************test_batch 1800, test_rmse_loss 34.073249,test_mae_loss 13.900279,test_mape_loss 219.604049,Time used 0.254002s
+batch 1900, train_loss 0.010496,Time used 0.091003s
+***************************test_batch 1900, test_rmse_loss 33.596314,test_mae_loss 13.798227,test_mape_loss 219.187604,Time used 0.271000s
+batch 2000, train_loss 0.010496,Time used 0.094007s
+***************************test_batch 2000, test_rmse_loss 33.457801,test_mae_loss 13.773134,test_mape_loss 213.713980,Time used 0.308991s
+batch 2100, train_loss 0.010496,Time used 0.094209s
+***************************test_batch 2100, test_rmse_loss 32.989457,test_mae_loss 13.682281,test_mape_loss 215.020875,Time used 0.266903s
+batch 2200, train_loss 0.010496,Time used 0.092001s
+***************************test_batch 2200, test_rmse_loss 32.820458,test_mae_loss 13.670906,test_mape_loss 214.403724,Time used 0.258999s
+batch 2300, train_loss 0.010496,Time used 0.088002s
+***************************test_batch 2300, test_rmse_loss 32.427946,test_mae_loss 13.541938,test_mape_loss 210.145545,Time used 0.275001s
+batch 2400, train_loss 0.010496,Time used 0.086998s
+***************************test_batch 2400, test_rmse_loss 32.137735,test_mae_loss 13.493228,test_mape_loss 211.189120,Time used 0.289998s
+batch 2500, train_loss 0.010496,Time used 0.096001s
+***************************test_batch 2500, test_rmse_loss 31.722081,test_mae_loss 13.347529,test_mape_loss 210.618600,Time used 0.281999s
+batch 100, train_loss 0.010496,Time used 0.089999s
+***************************test_batch 100, test_rmse_loss 31.618336,test_mae_loss 13.486656,test_mape_loss 235.831081,Time used 0.280000s
+batch 200, train_loss 0.010496,Time used 0.093997s
+***************************test_batch 200, test_rmse_loss 31.448256,test_mae_loss 13.596824,test_mape_loss 241.063630,Time used 0.258003s
+batch 300, train_loss 0.010496,Time used 0.099000s
+***************************test_batch 300, test_rmse_loss 30.054832,test_mae_loss 13.045492,test_mape_loss 238.778675,Time used 0.279000s
+batch 400, train_loss 0.010496,Time used 0.089997s
+***************************test_batch 400, test_rmse_loss 30.556293,test_mae_loss 13.255382,test_mape_loss 229.660766,Time used 0.272000s
+batch 500, train_loss 0.010496,Time used 0.078578s
+***************************test_batch 500, test_rmse_loss 29.691522,test_mae_loss 12.994496,test_mape_loss 234.864800,Time used 0.251288s
+batch 600, train_loss 0.010496,Time used 0.091996s
+***************************test_batch 600, test_rmse_loss 30.689702,test_mae_loss 13.244378,test_mape_loss 230.204329,Time used 0.297004s
+batch 100, train_loss 0.010496,Time used 0.078542s
+***************************test_batch 100, test_rmse_loss 29.973601,test_mae_loss 13.106346,test_mape_loss 232.879368,Time used 0.313240s
+batch 200, train_loss 0.010496,Time used 0.094172s
+***************************test_batch 200, test_rmse_loss 29.272560,test_mae_loss 12.726686,test_mape_loss 223.840026,Time used 0.282525s
+batch 300, train_loss 0.010496,Time used 0.109793s
+***************************test_batch 300, test_rmse_loss 29.416397,test_mae_loss 12.779837,test_mape_loss 217.199480,Time used 0.282549s
+batch 400, train_loss 0.010496,Time used 0.109819s
+***************************test_batch 400, test_rmse_loss 29.874995,test_mae_loss 13.070710,test_mape_loss 236.255606,Time used 0.298143s
+batch 500, train_loss 0.010496,Time used 0.094183s
+***************************test_batch 500, test_rmse_loss 29.607429,test_mae_loss 12.797554,test_mape_loss 216.612855,Time used 0.313272s
+batch 600, train_loss 0.010496,Time used 0.094172s
+***************************test_batch 600, test_rmse_loss 29.808866,test_mae_loss 12.951303,test_mape_loss 226.731733,Time used 0.282106s
+batch 700, train_loss 0.010496,Time used 0.094183s
+***************************test_batch 700, test_rmse_loss 29.394431,test_mae_loss 12.796509,test_mape_loss 223.272603,Time used 0.282524s
+batch 800, train_loss 0.010496,Time used 0.100184s
+***************************test_batch 800, test_rmse_loss 29.539165,test_mae_loss 12.915338,test_mape_loss 232.827421,Time used 0.272492s
+batch 900, train_loss 0.010496,Time used 0.109291s
+***************************test_batch 900, test_rmse_loss 29.940974,test_mae_loss 12.996039,test_mape_loss 223.236085,Time used 0.313770s
+batch 1000, train_loss 0.010496,Time used 0.100176s
+***************************test_batch 1000, test_rmse_loss 29.694621,test_mae_loss 12.842820,test_mape_loss 217.770054,Time used 0.284124s
+batch 1100, train_loss 0.010496,Time used 0.078554s
+***************************test_batch 1100, test_rmse_loss 29.737274,test_mae_loss 12.874974,test_mape_loss 220.556308,Time used 0.266478s
+batch 1200, train_loss 0.010496,Time used 0.094180s
+***************************test_batch 1200, test_rmse_loss 29.140188,test_mae_loss 12.631971,test_mape_loss 220.372701,Time used 0.256860s
+batch 1300, train_loss 0.010496,Time used 0.099801s
+***************************test_batch 1300, test_rmse_loss 29.685154,test_mae_loss 12.902680,test_mape_loss 228.142819,Time used 0.287458s
+batch 1400, train_loss 0.010496,Time used 0.099299s
+***************************test_batch 1400, test_rmse_loss 29.636528,test_mae_loss 12.829121,test_mape_loss 222.933991,Time used 0.292634s
+batch 1500, train_loss 0.010496,Time used 0.094185s
+***************************test_batch 1500, test_rmse_loss 29.735403,test_mae_loss 12.880753,test_mape_loss 220.668124,Time used 0.282531s
+batch 1600, train_loss 0.010496,Time used 0.078548s
+***************************test_batch 1600, test_rmse_loss 29.558676,test_mae_loss 12.743617,test_mape_loss 223.471254,Time used 0.297642s
+batch 1700, train_loss 0.010496,Time used 0.109803s
+***************************test_batch 1700, test_rmse_loss 29.586342,test_mae_loss 12.778182,test_mape_loss 217.005122,Time used 0.282033s
+batch 1800, train_loss 0.010496,Time used 0.095788s
+***************************test_batch 1800, test_rmse_loss 29.520243,test_mae_loss 12.759605,test_mape_loss 219.816547,Time used 0.296137s
+batch 1900, train_loss 0.010496,Time used 0.094158s
+***************************test_batch 1900, test_rmse_loss 29.718488,test_mae_loss 12.901564,test_mape_loss 226.517014,Time used 0.344512s
+batch 2000, train_loss 0.010496,Time used 0.109798s
+***************************test_batch 2000, test_rmse_loss 29.636459,test_mae_loss 12.868367,test_mape_loss 224.905547,Time used 0.282006s
+batch 2100, train_loss 0.010496,Time used 0.095780s
+***************************test_batch 2100, test_rmse_loss 30.382315,test_mae_loss 13.057456,test_mape_loss 221.749079,Time used 0.312160s
+batch 2200, train_loss 0.010496,Time used 0.078553s
+***************************test_batch 2200, test_rmse_loss 30.023602,test_mae_loss 12.918995,test_mape_loss 221.570255,Time used 0.298155s
+batch 2300, train_loss 0.010496,Time used 0.109813s
+***************************test_batch 2300, test_rmse_loss 29.700158,test_mae_loss 12.831821,test_mape_loss 222.437738,Time used 0.298147s
+batch 2400, train_loss 0.010496,Time used 0.094181s
+***************************test_batch 2400, test_rmse_loss 30.054101,test_mae_loss 12.971939,test_mape_loss 222.155829,Time used 0.313769s
+batch 2500, train_loss 0.010496,Time used 0.094169s
+***************************test_batch 2500, test_rmse_loss 29.652792,test_mae_loss 12.827664,test_mape_loss 223.329497,Time used 0.282006s
+batch 2600, train_loss 0.010496,Time used 0.109797s
+***************************test_batch 2600, test_rmse_loss 29.891788,test_mae_loss 12.849584,test_mape_loss 220.233960,Time used 0.314928s
+batch 2700, train_loss 0.010496,Time used 0.109805s
+***************************test_batch 2700, test_rmse_loss 29.663098,test_mae_loss 12.705288,test_mape_loss 215.152140,Time used 0.298187s
+batch 2800, train_loss 0.010496,Time used 0.095786s
+***************************test_batch 2800, test_rmse_loss 29.938384,test_mae_loss 12.918252,test_mape_loss 228.556647,Time used 0.329800s
+batch 2900, train_loss 0.010496,Time used 0.094172s
+***************************test_batch 2900, test_rmse_loss 29.888493,test_mae_loss 12.896027,test_mape_loss 224.835841,Time used 0.266364s
+batch 3000, train_loss 0.010496,Time used 0.099290s
+***************************test_batch 3000, test_rmse_loss 29.797526,test_mae_loss 12.816995,test_mape_loss 225.613797,Time used 0.371167s
+batch 3100, train_loss 0.010496,Time used 0.078566s
+***************************test_batch 3100, test_rmse_loss 30.044590,test_mae_loss 12.952026,test_mape_loss 222.768588,Time used 0.266919s
+batch 3200, train_loss 0.010496,Time used 0.084001s
+***************************test_batch 3200, test_rmse_loss 30.117924,test_mae_loss 12.937217,test_mape_loss 223.732658,Time used 0.277000s
+batch 3300, train_loss 0.010496,Time used 0.086996s
+***************************test_batch 3300, test_rmse_loss 30.299700,test_mae_loss 13.012234,test_mape_loss 221.909140,Time used 0.287000s
+batch 3400, train_loss 0.010496,Time used 0.096999s
+***************************test_batch 3400, test_rmse_loss 29.874478,test_mae_loss 12.855624,test_mape_loss 223.598380,Time used 0.299001s
+batch 3500, train_loss 0.010496,Time used 0.118993s
+***************************test_batch 3500, test_rmse_loss 30.433712,test_mae_loss 13.119117,test_mape_loss 224.204132,Time used 0.325997s
+batch 3600, train_loss 0.010496,Time used 0.099000s
+***************************test_batch 3600, test_rmse_loss 30.247590,test_mae_loss 13.008152,test_mape_loss 223.914153,Time used 0.336000s
+batch 3700, train_loss 0.010496,Time used 0.115000s
+***************************test_batch 3700, test_rmse_loss 30.036182,test_mae_loss 12.919703,test_mape_loss 223.615359,Time used 0.343001s
+batch 3800, train_loss 0.010496,Time used 0.110998s
+***************************test_batch 3800, test_rmse_loss 29.929219,test_mae_loss 12.874758,test_mape_loss 222.847179,Time used 0.335000s
+batch 3900, train_loss 0.010496,Time used 0.097000s
+***************************test_batch 3900, test_rmse_loss 30.081639,test_mae_loss 12.896009,test_mape_loss 224.261017,Time used 0.288999s
+batch 4000, train_loss 0.010496,Time used 0.104998s
+***************************test_batch 4000, test_rmse_loss 30.343410,test_mae_loss 13.057018,test_mape_loss 224.729169,Time used 0.293999s
+batch 4100, train_loss 0.010496,Time used 0.106999s
+***************************test_batch 4100, test_rmse_loss 29.959654,test_mae_loss 12.849614,test_mape_loss 222.012701,Time used 0.323998s
+batch 4200, train_loss 0.010496,Time used 0.094002s
+***************************test_batch 4200, test_rmse_loss 29.699444,test_mae_loss 12.748644,test_mape_loss 223.154484,Time used 0.314999s
+batch 4300, train_loss 0.010496,Time used 0.107003s
+***************************test_batch 4300, test_rmse_loss 29.917333,test_mae_loss 12.861939,test_mape_loss 226.287756,Time used 0.298996s
+batch 4400, train_loss 0.010496,Time used 0.085001s
+***************************test_batch 4400, test_rmse_loss 30.119196,test_mae_loss 12.902287,test_mape_loss 226.309491,Time used 0.281687s
+batch 4500, train_loss 0.010496,Time used 0.098002s
+***************************test_batch 4500, test_rmse_loss 30.426422,test_mae_loss 13.049987,test_mape_loss 224.229597,Time used 0.280998s
+batch 4600, train_loss 0.010496,Time used 0.111506s
+***************************test_batch 4600, test_rmse_loss 30.306100,test_mae_loss 13.013948,test_mape_loss 226.641435,Time used 1.099122s
+batch 4700, train_loss 0.010496,Time used 0.120996s
+***************************test_batch 4700, test_rmse_loss 29.917414,test_mae_loss 12.825630,test_mape_loss 221.980409,Time used 0.296223s
+batch 4800, train_loss 0.010496,Time used 0.081999s
+***************************test_batch 4800, test_rmse_loss 30.252517,test_mae_loss 12.975841,test_mape_loss 226.939952,Time used 0.276001s
+batch 4900, train_loss 0.010496,Time used 0.090998s
+***************************test_batch 4900, test_rmse_loss 30.312243,test_mae_loss 12.985347,test_mape_loss 221.822026,Time used 0.289004s
+batch 5000, train_loss 0.010496,Time used 0.088001s
+***************************test_batch 5000, test_rmse_loss 30.248541,test_mae_loss 12.902793,test_mape_loss 222.863203,Time used 0.284000s
+batch 5100, train_loss 0.010496,Time used 0.088002s
+***************************test_batch 5100, test_rmse_loss 30.328557,test_mae_loss 12.972040,test_mape_loss 223.420714,Time used 0.267000s
+batch 5200, train_loss 0.010496,Time used 0.094000s
+***************************test_batch 5200, test_rmse_loss 30.120051,test_mae_loss 12.920650,test_mape_loss 228.608992,Time used 0.281998s
+batch 5300, train_loss 0.010496,Time used 0.116998s
+***************************test_batch 5300, test_rmse_loss 30.369099,test_mae_loss 13.056391,test_mape_loss 231.860525,Time used 0.340998s
+batch 5400, train_loss 0.010496,Time used 0.079998s
+***************************test_batch 5400, test_rmse_loss 30.196621,test_mae_loss 12.964684,test_mape_loss 220.580969,Time used 0.278000s
+batch 5500, train_loss 0.010496,Time used 0.088997s
+***************************test_batch 5500, test_rmse_loss 30.206609,test_mae_loss 12.933302,test_mape_loss 225.366790,Time used 0.293000s
+batch 5600, train_loss 0.010496,Time used 0.087999s
+***************************test_batch 5600, test_rmse_loss 30.691483,test_mae_loss 13.182263,test_mape_loss 224.896932,Time used 0.262000s
+batch 5700, train_loss 0.010496,Time used 0.255001s
+***************************test_batch 5700, test_rmse_loss 30.399016,test_mae_loss 13.022320,test_mape_loss 225.590411,Time used 0.396996s
+batch 5800, train_loss 0.010496,Time used 0.087000s
+***************************test_batch 5800, test_rmse_loss 30.367034,test_mae_loss 13.020009,test_mape_loss 223.227784,Time used 0.263000s
+batch 5900, train_loss 0.010496,Time used 0.100998s
+***************************test_batch 5900, test_rmse_loss 30.575544,test_mae_loss 13.105645,test_mape_loss 228.520534,Time used 0.256999s
+batch 6000, train_loss 0.010496,Time used 0.094173s
+***************************test_batch 6000, test_rmse_loss 30.324434,test_mae_loss 12.973886,test_mape_loss 222.113479,Time used 0.266900s
+batch 6100, train_loss 0.010496,Time used 0.094177s
+***************************test_batch 6100, test_rmse_loss 30.433868,test_mae_loss 13.081545,test_mape_loss 227.707009,Time used 0.265416s
+batch 6200, train_loss 0.010496,Time used 0.098998s
+***************************test_batch 6200, test_rmse_loss 30.346285,test_mae_loss 12.979847,test_mape_loss 219.163685,Time used 0.260237s
+batch 6300, train_loss 0.010496,Time used 0.102007s
+***************************test_batch 6300, test_rmse_loss 30.385917,test_mae_loss 12.991443,test_mape_loss 225.385582,Time used 0.257993s
+batch 6400, train_loss 0.010496,Time used 0.091000s
+***************************test_batch 6400, test_rmse_loss 30.451720,test_mae_loss 13.098024,test_mape_loss 226.322553,Time used 0.263006s
+batch 6500, train_loss 0.010496,Time used 0.086999s
+***************************test_batch 6500, test_rmse_loss 30.678324,test_mae_loss 13.149495,test_mape_loss 223.838532,Time used 0.303999s
+batch 6600, train_loss 0.010496,Time used 0.094177s
+***************************test_batch 6600, test_rmse_loss 30.063831,test_mae_loss 12.930897,test_mape_loss 223.967308,Time used 0.266347s
+batch 6700, train_loss 0.010496,Time used 0.084002s
+***************************test_batch 6700, test_rmse_loss 30.227662,test_mae_loss 12.974439,test_mape_loss 229.036065,Time used 0.267998s
+batch 100, train_loss 37.171898,Time used 0.094174s
+***************************test_batch 100, test_rmse_loss 30.337769,test_mae_loss 13.058204,test_mape_loss 228.028907,Time used 0.266892s
+batch 200, train_loss 44.835052,Time used 0.094176s
+***************************test_batch 200, test_rmse_loss 30.450461,test_mae_loss 13.096512,test_mape_loss 227.822132,Time used 0.269298s
+batch 300, train_loss 42.621567,Time used 0.094177s
+***************************test_batch 300, test_rmse_loss 30.342636,test_mae_loss 13.058266,test_mape_loss 231.427250,Time used 0.282025s
+batch 400, train_loss 37.759892,Time used 0.094176s
+***************************test_batch 400, test_rmse_loss 30.341621,test_mae_loss 13.052057,test_mape_loss 230.366875,Time used 0.282521s
+batch 500, train_loss 40.310055,Time used 0.094173s
+***************************test_batch 500, test_rmse_loss 30.509106,test_mae_loss 13.123755,test_mape_loss 231.303545,Time used 0.345424s
+batch 600, train_loss 43.085655,Time used 0.141043s
+***************************test_batch 600, test_rmse_loss 30.562171,test_mae_loss 13.119871,test_mape_loss 228.066501,Time used 0.361058s
+batch 100, train_loss 33.953278,Time used 0.094174s
+***************************test_batch 100, test_rmse_loss 29.984744,test_mae_loss 12.843522,test_mape_loss 196.126396,Time used 0.251258s
+batch 100, train_loss 151.560120,Time used 0.109798s
+***************************test_batch 100, test_rmse_loss 24.604364,test_mae_loss 10.665033,test_mape_loss 182.583154,Time used 0.298109s
+batch 200, train_loss 169.831299,Time used 0.094175s
+***************************test_batch 200, test_rmse_loss 24.687816,test_mae_loss 10.690658,test_mape_loss 179.006996,Time used 0.266372s
+batch 300, train_loss 148.504150,Time used 0.094164s
+***************************test_batch 300, test_rmse_loss 24.729288,test_mae_loss 10.715126,test_mape_loss 179.167670,Time used 0.282571s
+batch 400, train_loss 158.932434,Time used 0.109838s
+***************************test_batch 400, test_rmse_loss 24.634847,test_mae_loss 10.690450,test_mape_loss 180.480452,Time used 0.282519s
+batch 500, train_loss 131.277313,Time used 0.094146s
+***************************test_batch 500, test_rmse_loss 24.510506,test_mae_loss 10.652173,test_mape_loss 181.590874,Time used 0.298147s
+batch 600, train_loss 157.230011,Time used 0.088001s
+***************************test_batch 600, test_rmse_loss 24.433252,test_mae_loss 10.672882,test_mape_loss 185.520513,Time used 0.285002s
+batch 700, train_loss 154.519348,Time used 0.096001s
+***************************test_batch 700, test_rmse_loss 24.602677,test_mae_loss 10.681046,test_mape_loss 182.711767,Time used 0.268364s
+batch 800, train_loss 156.138107,Time used 0.107014s
+***************************test_batch 800, test_rmse_loss 24.466412,test_mae_loss 10.659571,test_mape_loss 183.530783,Time used 0.362003s
+batch 900, train_loss 127.777069,Time used 0.112999s
+***************************test_batch 900, test_rmse_loss 24.558545,test_mae_loss 10.661707,test_mape_loss 180.098283,Time used 0.308000s
+batch 1000, train_loss 152.796982,Time used 0.092001s
+***************************test_batch 1000, test_rmse_loss 24.563081,test_mae_loss 10.679726,test_mape_loss 182.978555,Time used 0.270002s
+batch 1100, train_loss 160.641022,Time used 0.086997s
+***************************test_batch 1100, test_rmse_loss 24.588176,test_mae_loss 10.674172,test_mape_loss 180.102687,Time used 0.258002s
+batch 1200, train_loss 133.695099,Time used 0.094170s
+***************************test_batch 1200, test_rmse_loss 24.526036,test_mae_loss 10.667497,test_mape_loss 182.339877,Time used 0.298181s
+batch 1300, train_loss 139.432480,Time used 0.095005s
+***************************test_batch 1300, test_rmse_loss 24.632674,test_mae_loss 10.699644,test_mape_loss 180.999931,Time used 0.276000s
+batch 1400, train_loss 162.729202,Time used 0.088997s
+***************************test_batch 1400, test_rmse_loss 24.580062,test_mae_loss 10.683692,test_mape_loss 180.788369,Time used 0.257001s
+batch 1500, train_loss 179.770447,Time used 0.090998s
+***************************test_batch 1500, test_rmse_loss 24.613936,test_mae_loss 10.680560,test_mape_loss 181.163910,Time used 0.261000s
+batch 1600, train_loss 123.160561,Time used 0.089002s
+***************************test_batch 1600, test_rmse_loss 24.542895,test_mae_loss 10.671036,test_mape_loss 182.278319,Time used 0.262998s
+batch 1700, train_loss 152.359924,Time used 0.081996s
+***************************test_batch 1700, test_rmse_loss 24.591295,test_mae_loss 10.675676,test_mape_loss 180.408465,Time used 0.276999s
+batch 1800, train_loss 184.377136,Time used 0.082996s
+***************************test_batch 1800, test_rmse_loss 24.467651,test_mae_loss 10.668592,test_mape_loss 184.309643,Time used 0.287002s
+batch 1900, train_loss 130.918549,Time used 0.091000s
+***************************test_batch 1900, test_rmse_loss 24.608563,test_mae_loss 10.688602,test_mape_loss 180.768402,Time used 0.264999s
+batch 2000, train_loss 136.942566,Time used 0.223005s
+***************************test_batch 2000, test_rmse_loss 24.641858,test_mae_loss 10.692407,test_mape_loss 182.796570,Time used 0.305993s
+batch 2100, train_loss 143.624542,Time used 0.100997s
+***************************test_batch 2100, test_rmse_loss 24.671705,test_mae_loss 10.687172,test_mape_loss 181.730710,Time used 0.260001s
+batch 2200, train_loss 124.752167,Time used 0.101002s
+***************************test_batch 2200, test_rmse_loss 24.508163,test_mae_loss 10.673940,test_mape_loss 183.824630,Time used 0.278999s
+batch 2300, train_loss 153.968384,Time used 0.089999s
+***************************test_batch 2300, test_rmse_loss 24.512798,test_mae_loss 10.683692,test_mape_loss 184.250060,Time used 0.265999s
+batch 2400, train_loss 138.070908,Time used 0.083000s
+***************************test_batch 2400, test_rmse_loss 24.551498,test_mae_loss 10.680447,test_mape_loss 182.143898,Time used 0.278996s
+batch 2500, train_loss 127.126373,Time used 0.092999s
+***************************test_batch 2500, test_rmse_loss 24.602557,test_mae_loss 10.687671,test_mape_loss 179.651342,Time used 0.293648s
+batch 2600, train_loss 137.991287,Time used 0.095999s
+***************************test_batch 2600, test_rmse_loss 24.611741,test_mae_loss 10.690051,test_mape_loss 181.395303,Time used 0.305999s
+batch 2700, train_loss 157.914047,Time used 0.081998s
+***************************test_batch 2700, test_rmse_loss 24.394828,test_mae_loss 10.655089,test_mape_loss 184.479491,Time used 0.393001s
+batch 2800, train_loss 146.722870,Time used 0.092204s
+***************************test_batch 2800, test_rmse_loss 24.661289,test_mae_loss 10.696467,test_mape_loss 180.078672,Time used 0.278003s
+batch 2900, train_loss 138.150513,Time used 0.089002s
+***************************test_batch 2900, test_rmse_loss 24.407688,test_mae_loss 10.659453,test_mape_loss 185.059390,Time used 0.263998s
+batch 3000, train_loss 138.574081,Time used 0.078541s
+***************************test_batch 3000, test_rmse_loss 24.545148,test_mae_loss 10.675859,test_mape_loss 182.571109,Time used 0.287522s
+batch 3100, train_loss 113.070877,Time used 0.095999s
+***************************test_batch 3100, test_rmse_loss 24.701936,test_mae_loss 10.706542,test_mape_loss 180.859376,Time used 0.272001s
+batch 3200, train_loss 129.345520,Time used 0.087003s
+***************************test_batch 3200, test_rmse_loss 24.617475,test_mae_loss 10.702661,test_mape_loss 181.263715,Time used 0.273996s
+batch 3300, train_loss 156.414062,Time used 0.098000s
+***************************test_batch 3300, test_rmse_loss 24.434408,test_mae_loss 10.660368,test_mape_loss 183.834994,Time used 0.269965s
+batch 3400, train_loss 140.118347,Time used 0.096000s
+***************************test_batch 3400, test_rmse_loss 24.492033,test_mae_loss 10.677311,test_mape_loss 184.069814,Time used 0.283001s
+batch 3500, train_loss 108.188171,Time used 0.092000s
+***************************test_batch 3500, test_rmse_loss 24.702215,test_mae_loss 10.707536,test_mape_loss 179.176978,Time used 0.281999s
+batch 3600, train_loss 164.861008,Time used 0.083002s
+***************************test_batch 3600, test_rmse_loss 24.613627,test_mae_loss 10.696429,test_mape_loss 182.413230,Time used 0.278999s
+batch 3700, train_loss 114.833649,Time used 0.086451s
+***************************test_batch 3700, test_rmse_loss 24.499616,test_mae_loss 10.664167,test_mape_loss 183.321423,Time used 0.296999s
+batch 3800, train_loss 139.423477,Time used 0.094999s
+***************************test_batch 3800, test_rmse_loss 24.502826,test_mae_loss 10.688627,test_mape_loss 183.748046,Time used 0.286003s
+batch 3900, train_loss 151.775574,Time used 0.092038s
+***************************test_batch 3900, test_rmse_loss 24.540384,test_mae_loss 10.686221,test_mape_loss 183.299392,Time used 0.296965s
+batch 4000, train_loss 151.968140,Time used 0.078561s
+***************************test_batch 4000, test_rmse_loss 24.502370,test_mae_loss 10.672721,test_mape_loss 182.607228,Time used 0.266923s
+batch 4100, train_loss 136.725616,Time used 0.107998s
+***************************test_batch 4100, test_rmse_loss 24.546735,test_mae_loss 10.686942,test_mape_loss 185.417475,Time used 0.262997s
+batch 4200, train_loss 143.615906,Time used 0.078991s
+***************************test_batch 4200, test_rmse_loss 24.553900,test_mae_loss 10.679666,test_mape_loss 181.946856,Time used 0.297998s
+batch 4300, train_loss 152.880402,Time used 0.084999s
+***************************test_batch 4300, test_rmse_loss 24.583936,test_mae_loss 10.689012,test_mape_loss 180.843286,Time used 0.277000s
+batch 4400, train_loss 129.586563,Time used 0.088999s
+***************************test_batch 4400, test_rmse_loss 24.677639,test_mae_loss 10.709724,test_mape_loss 181.101999,Time used 0.273001s
+batch 4500, train_loss 164.049988,Time used 0.096003s
+***************************test_batch 4500, test_rmse_loss 24.508703,test_mae_loss 10.679653,test_mape_loss 182.967953,Time used 0.275996s
+batch 4600, train_loss 134.826218,Time used 0.083994s
+***************************test_batch 4600, test_rmse_loss 24.491045,test_mae_loss 10.678803,test_mape_loss 184.010189,Time used 0.267001s
+batch 4700, train_loss 155.830078,Time used 0.095999s
+***************************test_batch 4700, test_rmse_loss 24.571831,test_mae_loss 10.691071,test_mape_loss 181.243349,Time used 0.265999s
+batch 4800, train_loss 138.355560,Time used 0.085001s
+***************************test_batch 4800, test_rmse_loss 24.682803,test_mae_loss 10.698673,test_mape_loss 179.998945,Time used 0.257998s
+batch 4900, train_loss 143.774048,Time used 0.087002s
+***************************test_batch 4900, test_rmse_loss 24.465858,test_mae_loss 10.683225,test_mape_loss 185.164546,Time used 0.271996s
+batch 5000, train_loss 147.172333,Time used 0.090999s
+***************************test_batch 5000, test_rmse_loss 24.569576,test_mae_loss 10.682704,test_mape_loss 181.261383,Time used 0.277998s
+batch 5100, train_loss 134.742599,Time used 0.099998s
+***************************test_batch 5100, test_rmse_loss 24.675836,test_mae_loss 10.702453,test_mape_loss 183.483441,Time used 0.256998s
+batch 5200, train_loss 131.030090,Time used 0.087000s
+***************************test_batch 5200, test_rmse_loss 24.419424,test_mae_loss 10.679105,test_mape_loss 184.076274,Time used 0.291000s
+batch 5300, train_loss 133.358368,Time used 0.091003s
+***************************test_batch 5300, test_rmse_loss 24.446506,test_mae_loss 10.670693,test_mape_loss 183.137206,Time used 0.268034s
+batch 5400, train_loss 139.807144,Time used 0.090001s
+***************************test_batch 5400, test_rmse_loss 24.550265,test_mae_loss 10.677339,test_mape_loss 182.145622,Time used 0.264998s
+batch 5500, train_loss 122.931534,Time used 0.096994s
+***************************test_batch 5500, test_rmse_loss 24.440428,test_mae_loss 10.669627,test_mape_loss 182.935206,Time used 0.293998s
+batch 5600, train_loss 136.653992,Time used 0.094162s
+***************************test_batch 5600, test_rmse_loss 24.472947,test_mae_loss 10.674429,test_mape_loss 183.410853,Time used 0.282633s
+batch 5700, train_loss 141.441971,Time used 0.102004s
+***************************test_batch 5700, test_rmse_loss 24.479198,test_mae_loss 10.672907,test_mape_loss 182.822975,Time used 0.316999s
+batch 5800, train_loss 137.166275,Time used 0.088998s
+***************************test_batch 5800, test_rmse_loss 24.473948,test_mae_loss 10.700650,test_mape_loss 187.760999,Time used 0.288002s
+batch 5900, train_loss 151.617706,Time used 0.095132s
+***************************test_batch 5900, test_rmse_loss 24.454596,test_mae_loss 10.680967,test_mape_loss 185.140355,Time used 0.266052s
+batch 6000, train_loss 145.839828,Time used 0.086003s
+***************************test_batch 6000, test_rmse_loss 24.464396,test_mae_loss 10.679516,test_mape_loss 186.110362,Time used 0.270998s
+batch 6100, train_loss 140.401886,Time used 0.083002s
+***************************test_batch 6100, test_rmse_loss 24.570156,test_mae_loss 10.700323,test_mape_loss 184.225818,Time used 0.304002s
+batch 6200, train_loss 136.222763,Time used 0.094178s
+***************************test_batch 6200, test_rmse_loss 24.514387,test_mae_loss 10.680631,test_mape_loss 182.678314,Time used 0.266480s
+batch 6300, train_loss 141.585236,Time used 0.095001s
+***************************test_batch 6300, test_rmse_loss 24.517579,test_mae_loss 10.680748,test_mape_loss 182.860032,Time used 0.294001s
+batch 6400, train_loss 146.847656,Time used 0.091998s
+***************************test_batch 6400, test_rmse_loss 24.445057,test_mae_loss 10.681914,test_mape_loss 185.738220,Time used 0.278002s
+batch 6500, train_loss 146.256439,Time used 0.090002s
+***************************test_batch 6500, test_rmse_loss 24.600375,test_mae_loss 10.682051,test_mape_loss 183.046591,Time used 0.281997s
+batch 6600, train_loss 143.774536,Time used 0.098000s
+***************************test_batch 6600, test_rmse_loss 24.469278,test_mae_loss 10.672421,test_mape_loss 183.395478,Time used 0.372000s
+batch 6700, train_loss 164.087051,Time used 0.091001s
